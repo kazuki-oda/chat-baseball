@@ -1,0 +1,18 @@
+.chat
+  .header
+    = @group.name
+    %button.back{:autofocus => "true", :type => "button"}
+      %a{:href => "/groups"} グループ一覧へ戻る
+  .messages
+    - @messages.each do |message|
+      .message
+        .user-name
+          = message.user.name
+          \:
+        .texts
+          = message.content
+  .form
+    .text
+      = form_with(model: @message, local: true) do |form|
+        = form.text_field :content, placeholder: "ここにメッセージを入力してください", class: "text-box"
+        = form.submit "送信", class: "send"
