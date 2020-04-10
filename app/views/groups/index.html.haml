@@ -1,7 +1,7 @@
 .grouplist
   .user
     = current_user.name
-    %button.set{:autofocus => "true", :type => "button"}
+    %button.set{autofocus: "true", type: "button"}
       %a{:href => "/users/1/edit"} 編集
   .groups
     = link_to "日本プロ野球", "/groups/1/messages", class:"group"

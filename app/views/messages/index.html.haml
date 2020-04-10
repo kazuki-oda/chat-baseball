@@ -1,8 +1,8 @@
 .chat
   .header
     = @group.name
-    %button.back{:autofocus => "true", :type => "button"}
-      %a{:href => "/groups"} グループ一覧へ戻る
+    %button.back{autofocus: "true", type: "button"}
+      %a{href: "/groups"} グループ一覧へ戻る
   .messages
     - @messages.each do |message|
       .message
