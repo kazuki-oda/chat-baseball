@@ -96,9 +96,9 @@ Things you may want to cover:
 ついでにチャット出来るみたいな物はたまに見ますが専用のチャットアプリを見ないのであったらいいなと思いました。
 そしてこのアプリを作りながらスキルアップを目指す。
 <h2>グループはこのように最初から作られています。</h2>
-<img src="https://gyazo.com/1108e5901463a5328ed979bf30ae7d0f">
+https://gyazo.com/1108e5901463a5328ed979bf30ae7d0f
 <h2>このようにログインした状態でメッセージを送信する事が出来ます。</h2>
-<img src="https://gyazo.com/ba42d2edea7a3b815eb27770718844fa">
+"https://gyazo.com/ba42d2edea7a3b815eb27770718844fa"
 <h2>ユーザー情報編集が出来ます</h2>
 
 <h2>情報編集した際に名前を変えると
