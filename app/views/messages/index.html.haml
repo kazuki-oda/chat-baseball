@@ -2,7 +2,8 @@
   .header
     = @group.name
     %button.back{autofocus: "true", type: "button"}
-      %a{href: "/groups"} グループ一覧へ戻る
+      = link_to groups_path do 
+        グループ一覧へ戻る
   .messages
     - @messages.each do |message|
       .message
