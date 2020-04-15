@@ -57,7 +57,7 @@ https://chat-baseball.herokuapp.com/</br>
 <h3>1枚目の画像の編集ボタンをクリックするとユーザー情報編集画面に遷移しupdateボタンをクリックすると情報編集が出来ます</h3>
 <img src="https://user-images.githubusercontent.com/61171618/79317791-16c78e00-7f41-11ea-874e-be0d1d816de1.png">
 
-<h3>ユーザー情報を編集すると。過去に投稿したメッセージのユーザー名も変わります</h3>
+<h3>ユーザー情報を編集すると、過去に投稿したメッセージのユーザー名も変わります</h3>
  <img src="https://user-images.githubusercontent.com/61171618/79318299-c00e8400-7f41-11ea-94e1-23b1d5c41dce.png">
 
 <h2>今後実装予定の内容</h2>
