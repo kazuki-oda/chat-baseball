@@ -115,7 +115,8 @@ https://chat-baseball.herokuapp.com/</br>
 <img src="https://user-images.githubusercontent.com/61171618/79317791-16c78e00-7f41-11ea-874e-be0d1d816de1.png">
 
 <h3>編集した後以前送られていたメッセージの名前も変わります</h3>
-
+ <img src="https://user-images.githubusercontent.com/61171618/79318299-c00e8400-7f41-11ea-94e1-23b1d5c41dce.png">
+ 
 <h2>今後実装予定の内容</h2>
 <h3>コメントを送信できるようにする</h3>
   個人宛にコメントする機能もあることでじっくり会話できるようになると思った為実装したい
