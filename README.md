@@ -101,13 +101,14 @@ https://chat-baseball.herokuapp.com/</br>
 そしてこのアプリを作りながらスキルアップを目指す。
 
 <h2>グループはこのように最初から作られています。</h2>
-https://gyazo.com/1108e5901463a5328ed979bf30ae7d0f
+![image](https://user-images.githubusercontent.com/61171618/79305808-073f4980-7f2f-11ea-90b4-fba4c6ba25af.png)
+
 
 <h2>このようにログインした状態でメッセージを送信する事が出来ます。</h2>
-"https://gyazo.com/ba42d2edea7a3b815eb27770718844fa"
+![image](https://user-images.githubusercontent.com/61171618/79308329-5b4c2d00-7f33-11ea-9cbb-a6a86878af4c.png)
+
 
 <h2>ユーザー情報編集が出来ます。メッセージ送信者の名前も変わっています</h2>
-  https://gyazo.com/383f4bb02840761acc3c93c491a2244c
 
 <h2>今後実装予定の内容</h2>
 <li>コメントを送信できるようにする</li>
