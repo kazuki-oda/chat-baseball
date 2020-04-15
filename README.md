@@ -101,7 +101,7 @@ https://chat-baseball.herokuapp.com/</br>
 そしてこのアプリを作りながらスキルアップを目指す。
 
 <h2>グループはこのように最初から作られています。</h2>
-![image](https://user-images.githubusercontent.com/61171618/79305808-073f4980-7f2f-11ea-90b4-fba4c6ba25af.png)
+<img src="https://user-images.githubusercontent.com/61171618/79305808-073f4980-7f2f-11ea-90b4-fba4c6ba25af.png">
 
 
 <h2>このようにログインした状態でメッセージを送信する事が出来ます。</h2>
