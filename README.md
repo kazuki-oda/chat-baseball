@@ -106,10 +106,15 @@ https://chat-baseball.herokuapp.com/</br>
 
 
 <h3>このようにログインした状態でメッセージを送信する事が出来ます。</h3>
-"https://gyazo.com/b11a6192c02b34c18e99dacc546cdb4c"
+<img src="https://user-images.githubusercontent.com/61171618/79316947-07941080-7f40-11ea-8de5-20401466bc5e.png">
 
-<h3>ユーザー情報編集が出来ます。メッセージ送信者の名前も変わっています</h3>
-"https://gyazo.com/1f2adaf1d02436c96810b98d4d3bdea1"
+<h3>送信できました</h3>
+<img src="https://user-images.githubusercontent.com/61171618/79317197-6063a900-7f40-11ea-912e-88cb43396ea0.png">
+
+<h3>ユーザー情報編集が出来ます</h3>
+<img src="https://user-images.githubusercontent.com/61171618/79317791-16c78e00-7f41-11ea-874e-be0d1d816de1.png">
+
+<h3>編集した後以前送られていたメッセージの名前も変わります</h3>
 
 <h2>今後実装予定の内容</h2>
 <h3>コメントを送信できるようにする</h3>
