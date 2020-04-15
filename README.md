@@ -106,10 +106,10 @@ https://chat-baseball.herokuapp.com/</br>
 
 
 <h3>このようにログインした状態でメッセージを送信する事が出来ます。</h3>
-https://github.com/kazuki-oda/chat-baseball/files/4479978/2020-04-15.17.31.37.mov.zip
+"https://gyazo.com/b11a6192c02b34c18e99dacc546cdb4c"
 
 <h3>ユーザー情報編集が出来ます。メッセージ送信者の名前も変わっています</h3>
-"https://gyazo.com/1f2adaf1d02436c96810b98d4d3bdea1.gif"
+"https://gyazo.com/1f2adaf1d02436c96810b98d4d3bdea1"
 
 <h2>今後実装予定の内容</h2>
 <h3>コメントを送信できるようにする</h3>
