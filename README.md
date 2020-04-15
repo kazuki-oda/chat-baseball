@@ -106,7 +106,7 @@ https://chat-baseball.herokuapp.com/</br>
 
 
 <h2>このようにログインした状態でメッセージを送信する事が出来ます。</h2>
-<img src="b11a6192c02b34c18e99dacc546cdb4c">
+<img src="https://user-images.githubusercontent.com/61171618/79311133-edeecb00-7f37-11ea-9147-2a8047e1c23d.gif">
 
 <h2>ユーザー情報編集が出来ます。メッセージ送信者の名前も変わっています</h2>
 
