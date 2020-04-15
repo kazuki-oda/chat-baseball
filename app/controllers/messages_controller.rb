@@ -8,7 +8,7 @@ class MessagesController < ApplicationController
   
   def new
   end
-  
+
   def create 
     @message = @group.messages.new(message_params)
     if @message.save
@@ -23,7 +23,7 @@ class MessagesController < ApplicationController
   private
 
   def message_params
-    params.permit(:content).merge(user_id: current_user.id)
+    params.require(:message).permit(:content).merge(user_id: current_user.id)
   end
 
   def set_group 

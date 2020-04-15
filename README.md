@@ -87,7 +87,9 @@ Things you may want to cover:
   野球専用チャットアプリ
 
 <h2>本番環境</h2>
-https://chat-baseball.herokuapp.com/
+https://chat-baseball.herokuapp.com/</br>
+メールアドレス ooo@ooo</br>
+パスワード aaaaaa
 
 <h2>概要</h2>
 このアプリにはグループが元々ありチャットをする事が出来ます。</br>
